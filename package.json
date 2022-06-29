@@ -1,0 +1,19 @@
+{
+  "name": "hover-dropdown-menu",
+  "version": "1.0.0",
+  "description": "A module for creating hover drop down menus",
+  "main": "dropdown.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evan1mclean/hover-dropdown-menu.git"
+  },
+  "author": "Evan McLean <evanhughmclean@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evan1mclean/hover-dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/evan1mclean/hover-dropdown-menu#readme"
+}
